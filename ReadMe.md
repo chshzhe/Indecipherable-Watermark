@@ -6,7 +6,7 @@
 2. 图片采用单色像素，水印去除难度极大
 3. 一键搞定，方便快捷
 
-<img src="ReadMe.assets/1.png" alt="1" style="zoom:25%;" />
+<img src="ReadMe.assets/1.png" alt="1" width="150" height="150" />
 
 ## Install
 
